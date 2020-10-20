@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Repository https://github.com/Many-ip/PROJECTE-01
+
 # 1-Make sure the script is being executed with superuser privileges.
 if [ $EUID -ne 0 ]
 then
